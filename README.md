@@ -2,4 +2,4 @@
 
 pip3 install prisma_sase
 
-./copylan.py -S "ION1" -D "ION2" -P 5
+./copylan.py -S "ION1" -D "ION2"
